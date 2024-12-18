@@ -78,7 +78,7 @@ The analysis was conducted using a combination of the following tools:
 
 ---
 
-[Click Here to View the Dashboard](https://mavenanalytics.io/project/23390)
+[Click Here to View the Live Dashboard](https://mavenanalytics.io/project/23390)
 
 
 ## Conclusion
