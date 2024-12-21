@@ -1,4 +1,4 @@
-## Overview
+# **Overview**
 
 The **Covid-19 Global Statistics Dashboard** provides an in-depth analysis of the global pandemic, focusing on key metrics such as total cases, total tests, deaths, vaccinations, and case fatality rates. The dashboard integrates data across various countries and time periods, delivering actionable insights and clear visualizations for better understanding the impact of the pandemic.
 
