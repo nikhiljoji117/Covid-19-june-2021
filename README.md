@@ -2,6 +2,8 @@
 
 The **Covid-19 Global Statistics Dashboard** provides an in-depth analysis of the global pandemic, focusing on key metrics such as total cases, total tests, deaths, vaccinations, and case fatality rates. The dashboard integrates data across various countries and time periods, delivering actionable insights and clear visualizations for better understanding the impact of the pandemic.
 
+
+[Click Here to View the Live Dashboard](https://mavenanalytics.io/project/23390)
 ---
 
 ## **Key Metrics**
@@ -76,7 +78,7 @@ The analysis was conducted using a combination of the following tools:
 
 ---
 
-[Click Here to View the Live Dashboard](https://mavenanalytics.io/project/23390)
+
 
 
 ## Conclusion
